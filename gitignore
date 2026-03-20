@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.onnx
+data/
+.env
+.vscode/settings.json
